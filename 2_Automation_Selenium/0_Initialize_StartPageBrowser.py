@@ -10,6 +10,7 @@ drv = webdriver.Chrome(executable_path=r'C:\webdriver\chromedriver.exe')
 drv = webdriver.Ie(executable_path=r'C:\webdriver\IEDriverServer.exe')
 drv = webdriver.Chrome()
 time.sleep(2)
+
 # hilangin bluetooth driver Chrome :
 
 
